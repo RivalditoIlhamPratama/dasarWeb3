@@ -1,0 +1,10 @@
+h2{
+	text-align: center;
+	color: blueviolet;
+}
+
+.gambar{
+	width: 1000px;
+	float: left;
+	margin-right: 10px;
+}
